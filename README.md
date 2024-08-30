@@ -10,7 +10,7 @@ Si tienes alguna duda, no dudes en contactarme a través del correo [jaleonhardt
 | :--------------------------: | :-------------------------------: | :-------------------------: | :--------: | :---------------------------------: |
 | Lunes 19 de agosto           | Laboratorio 1                     | Introducción a SIG           | YouTube    | [Link](https://youtu.be/_9iZmFnye8Y)|
 | Viernes 23 de agosto         | Laboratorio 2                     | Introducción a Python SIG    | YouTube    | [Link](https://youtu.be/TbJSV5Mp9hk)|
-| Viernes 30 de agosto         | Laboratorio 3                     | Aplicación con GeoPandas     | YouTube    | |
+| Viernes 30 de agosto         | Laboratorio 3                     | Aplicación con GeoPandas     | YouTube    | [Link](https://youtu.be/znwRJTMYuu8)|
 | Viernes 30 de agosto         | Sesión de Consulta 1              | Consultas Generales          | Presencial | -                                  |
 | Viernes 6 de septiembre      | Laboratorio 4                     | Proyecto Semestral           | YouTube    | |
 | Viernes 13 de septiembre     | Laboratorio 5                     | Consolidación de Datos       | YouTube    | |
