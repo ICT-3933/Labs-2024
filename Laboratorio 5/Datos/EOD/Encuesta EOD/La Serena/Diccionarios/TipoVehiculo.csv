@@ -1,0 +1,13 @@
+IDTipoVehiculo,TipoVehiculo
+-1,Sin Información
+1,Auto propio
+2,Auto de la empresa
+3,Motocicleta
+4,"Camioneta, Sport Utility Vehicle (VUD)"
+5,Furgón escolar propio
+6,Furgón escolar (chofer)
+7,Van o minivan u otro tipo de furgón
+8,Bus Institucional
+9,Camiones
+10,Otro vehículo
+11,Otro vehículo no motorizado

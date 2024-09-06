@@ -1,0 +1,17 @@
+id,taxiColectivoLinea,tarifaMin,tarifaMax
+1,Otra Línea,400,2500
+2,1 Verde,400,2500
+3,10 Verde,400,2500
+4,50 Verde,400,2500
+5,110 Verde ,400,2500
+6,150 Verde,400,2500
+7,1010 Verde,400,2500
+8,7 Azul,400,2500
+9,45 Azul,400,2500
+10,450 Azul,400,2500
+11,15 Naranjo,400,2500
+12,55 Naranjo,400,2500
+13,115 Naranjo,400,2500
+14,20 Amarillo,400,2500
+15,20 R Amarillo,400,2500
+16,21 Amarillo,40,2500

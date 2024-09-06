@@ -1,0 +1,26 @@
+GA,Acero
+GB,Hormigón Armado
+GC,Albañilería
+GE,Madera
+GL,Madera Laminada
+GF,Adobe
+OA,Acero
+OB,Hormigón Armado
+OE,Madera
+SA,Silo de Acero
+SB,Silo de Hormigón Armado
+EA,Estanque de Acero
+EB,Estanque de Hormigón Armado
+M,Marquesina
+P,Pavimento
+W,Piscina
+TA,Techumbre Apoyada de Acero
+TE,Techumbre Apoyada de Madera
+TL,Techumbre Apoyada de Madera Laminada
+A,Acero A en tubos y perfiles
+B,Hormigón armado
+C,Albañilería de ladrillo de arcilla piedra bloque de cemento u hormigón celular
+E,Madera
+F,Adobe
+G,Perfiles metálicos
+K,Estructura con elementos prefabricados e industrializados

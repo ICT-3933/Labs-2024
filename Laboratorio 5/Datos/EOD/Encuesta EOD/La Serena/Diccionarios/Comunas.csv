@@ -1,0 +1,349 @@
+IDComuna,Comuna,IDZonaManzana,Descripción
+-1,Sin Información,,Sin Información
+14000,Extranjero,,Comuna Externa
+15101,Arica,,Comuna Externa
+15102,Camarones,,Comuna Externa
+15201,Putre,,Comuna Externa
+15202,General Lagos,,Comuna Externa
+1101,Iquique,,Comuna Externa
+1107,Alto Hospicio,,Comuna Externa
+1401,Pozo Almonte,,Comuna Externa
+1402,Camiña,,Comuna Externa
+1403,Colchane,,Comuna Externa
+1404,Huara,,Comuna Externa
+1405,Pica,,Comuna Externa
+2101,Antofagasta,,Comuna Externa
+2102,Mejillones,,Comuna Externa
+2103,Sierra Gorda,,Comuna Externa
+2104,Taltal,,Comuna Externa
+2201,Calama,,Comuna Externa
+2202,Ollagüe,,Comuna Externa
+2203,San Pedro de Atacama,,Comuna Externa
+2301,Tocopilla,,Comuna Externa
+2302,María Elena,,Comuna Externa
+3101,Copiapó,,Comuna Externa
+3102,Caldera,,Comuna Externa
+3103,Tierra Amarilla,,Comuna Externa
+3201,Chañaral,,Comuna Externa
+3202,Diego de Almagro,,Comuna Externa
+3301,Vallenar,,Comuna Externa
+3302,Alto del Carmen,,Comuna Externa
+3303,Freirina,,Comuna Externa
+3304,Huasco,,Comuna Externa
+4101,La Serena,,Comuna Interna
+4102,Coquimbo,,Comuna Interna
+4103,Andacollo,,Comuna Envolvente
+4104,La Higuera,,Comuna Envolvente
+4105,Paiguano,,Comuna Envolvente
+4106,Vicuña,,Comuna Envolvente
+4201,Illapel,,Comuna Externa
+4202,Canela,,Comuna Externa
+4203,Los Vilos,,Comuna Externa
+4204,Salamanca,,Comuna Externa
+4301,Ovalle,,Comuna Externa
+4302,Combarbalá,,Comuna Externa
+4303,Monte Patria,,Comuna Externa
+4304,Punitaqui,,Comuna Externa
+4305,Río Hurtado,,Comuna Externa
+5101,Valparaíso,,Comuna Externa
+5102,Casablanca,,Comuna Externa
+5103,Concón,,Comuna Externa
+5104,Juan Fernández,,Comuna Externa
+5105,Puchuncaví,,Comuna Externa
+5106,Quilpué,,Comuna Externa
+5107,Quintero,,Comuna Externa
+5108,Villa Alemana,,Comuna Externa
+5109,Viña del Mar,,Comuna Externa
+5201,Isla de Pascua,,Comuna Externa
+5301,Los Andes,,Comuna Externa
+5302,Calle Larga,,Comuna Externa
+5303,Rinconada,,Comuna Externa
+5304,San Esteban,,Comuna Externa
+5401,La Ligua,,Comuna Externa
+5402,Cabildo,,Comuna Externa
+5403,Papudo,,Comuna Externa
+5404,Petorca,,Comuna Externa
+5405,Zapallar,,Comuna Externa
+5501,Quillota,,Comuna Externa
+5502,Calera,,Comuna Externa
+5503,Hijuelas,,Comuna Externa
+5504,La Cruz,,Comuna Externa
+5505,Limache,,Comuna Externa
+5506,Nogales,,Comuna Externa
+5507,Olmué,,Comuna Externa
+5601,San Antonio,,Comuna Externa
+5602,Algarrobo,,Comuna Externa
+5603,Cartagena,,Comuna Externa
+5604,El Quisco,,Comuna Externa
+5605,El Tabo,,Comuna Externa
+5606,Santo Domingo,,Comuna Externa
+5701,San Felipe,,Comuna Externa
+5702,Catemu,,Comuna Externa
+5703,Llaillay,,Comuna Externa
+5704,Panquehue,,Comuna Externa
+5705,Putaendo,,Comuna Externa
+5706,Santa María,,Comuna Externa
+6101,Rancagua,,Comuna Externa
+6102,Codegua,,Comuna Externa
+6103,Coinco,,Comuna Externa
+6104,Coltauco,,Comuna Externa
+6105,Doñihue,,Comuna Externa
+6106,Graneros,,Comuna Externa
+6107,Las Cabras,,Comuna Externa
+6108,Machalí,,Comuna Externa
+6109,Malloa,,Comuna Externa
+6110,Mostazal,,Comuna Externa
+6111,Olivar,,Comuna Externa
+6112,Peumo,,Comuna Externa
+6113,Pichidegua,,Comuna Externa
+6114,Quinta de Tilcoco,,Comuna Externa
+6115,Rengo,,Comuna Externa
+6116,Requínoa,,Comuna Externa
+6117,San Vicente,,Comuna Externa
+6201,Pichilemu,,Comuna Externa
+6202,La Estrella,,Comuna Externa
+6203,Litueche,,Comuna Externa
+6204,Marchihue,,Comuna Externa
+6205,Navidad,,Comuna Externa
+6206,Paredones,,Comuna Externa
+6301,San Fernando,,Comuna Externa
+6302,Chépica,,Comuna Externa
+6303,Chimbarongo,,Comuna Externa
+6304,Lolol,,Comuna Externa
+6305,Nancagua,,Comuna Externa
+6306,Palmilla,,Comuna Externa
+6307,Peralillo,,Comuna Externa
+6308,Placilla,,Comuna Externa
+6309,Pumanque,,Comuna Externa
+6310,Santa Cruz,,Comuna Externa
+7101,Talca,,Comuna Externa
+7102,Constitución,,Comuna Externa
+7103,Curepto,,Comuna Externa
+7104,Empedrado,,Comuna Externa
+7105,Maule,,Comuna Externa
+7106,Pelarco,,Comuna Externa
+7107,Pencahue,,Comuna Externa
+7108,Río Claro,,Comuna Externa
+7109,San Clemente,,Comuna Externa
+7110,San Rafael,,Comuna Externa
+7201,Cauquenes,,Comuna Externa
+7202,Chanco,,Comuna Externa
+7203,Pelluhue,,Comuna Externa
+7301,Curicó,,Comuna Externa
+7302,Hualañé,,Comuna Externa
+7303,Licantén,,Comuna Externa
+7304,Molina,,Comuna Externa
+7305,Rauco,,Comuna Externa
+7306,Romeral,,Comuna Externa
+7307,Sagrada Familia,,Comuna Externa
+7308,Teno,,Comuna Externa
+7309,Vichuquén,,Comuna Externa
+7401,Linares,,Comuna Externa
+7402,Colbún,,Comuna Externa
+7403,Longaví,,Comuna Externa
+7404,Parral,,Comuna Externa
+7405,Retiro,,Comuna Externa
+7406,San Javier,,Comuna Externa
+7407,Villa Alegre,,Comuna Externa
+7408,Yerbas Buenas,,Comuna Externa
+8101,Concepción,,Comuna Externa
+8102,Coronel,,Comuna Externa
+8103,Chiguayante,,Comuna Externa
+8104,Florida,,Comuna Externa
+8105,Hualqui,,Comuna Externa
+8106,Lota,,Comuna Externa
+8107,Penco,,Comuna Externa
+8108,San Pedro de la Paz,,Comuna Externa
+8109,Santa Juana,,Comuna Externa
+8110,Talcahuano,,Comuna Externa
+8111,Tomé,,Comuna Externa
+8112,H ualpén,,Comuna Externa
+8201,Lebu,,Comuna Externa
+8202,Arauco,,Comuna Externa
+8203,Cañete,,Comuna Externa
+8204,Contulmo,,Comuna Externa
+8205,Curanilahue,,Comuna Externa
+8206,Los Alamos,,Comuna Externa
+8207,Tirúa,,Comuna Externa
+8301,Los Angeles,,Comuna Externa
+8302,Antuco,,Comuna Externa
+8303,Cabrero,,Comuna Externa
+8304,Laja,,Comuna Externa
+8305,Mulchén,,Comuna Externa
+8306,Nacimiento,,Comuna Externa
+8307,Negrete,,Comuna Externa
+8308,Quilaco,,Comuna Externa
+8309,Quilleco,,Comuna Externa
+8310,San Rosendo,,Comuna Externa
+8311,Santa Bárbara,,Comuna Externa
+8312,Tucapel,,Comuna Externa
+8313,Yumbel,,Comuna Externa
+8314,Alto Biobío,,Comuna Externa
+8401,Chillán,,Comuna Externa
+8402,Bulnes,,Comuna Externa
+8403,Cobquecura,,Comuna Externa
+8404,Coelemu,,Comuna Externa
+8405,Coihueco,,Comuna Externa
+8406,Chillán Viejo,,Comuna Externa
+8407,El Carmen,,Comuna Externa
+8408,Ninhue,,Comuna Externa
+8409,Ñiquén,,Comuna Externa
+8410,Pemuco,,Comuna Externa
+8411,Pinto,,Comuna Externa
+8412,Portezuelo,,Comuna Externa
+8413,Quillón,,Comuna Externa
+8414,Quirihue,,Comuna Externa
+8415,Ránquil,,Comuna Externa
+8416,San Carlos,,Comuna Externa
+8417,San Fabián,,Comuna Externa
+8418,San Ignacio,,Comuna Externa
+8419,San Nicolás,,Comuna Externa
+8420,Treguaco,,Comuna Externa
+8421,Yungay,,Comuna Externa
+9101,Temuco,,Comuna Externa
+9102,Carahue,,Comuna Externa
+9103,Cunco,,Comuna Externa
+9104,Curarrehue,,Comuna Externa
+9105,Freire,,Comuna Externa
+9106,Galvarino,,Comuna Externa
+9107,Gorbea,,Comuna Externa
+9108,Lautaro,,Comuna Externa
+9109,Loncoche,,Comuna Externa
+9110,Melipeuco,,Comuna Externa
+9111,Nueva Imperial,,Comuna Externa
+9112,Padre Las Casas,,Comuna Externa
+9113,Perquenco,,Comuna Externa
+9114,Pitrufquén,,Comuna Externa
+9115,Pucón,,Comuna Externa
+9116,Saavedra,,Comuna Externa
+9117,Teodoro Schmidt,,Comuna Externa
+9118,Toltén,,Comuna Externa
+9119,Vilcún,,Comuna Externa
+9120,Villarrica,,Comuna Externa
+9121,Cholchol,,Comuna Externa
+9201,Angol,,Comuna Externa
+9202,Collipulli,,Comuna Externa
+9203,Curacautín,,Comuna Externa
+9204,Ercilla,,Comuna Externa
+9205,Lonquimay,,Comuna Externa
+9206,Los Sauces,,Comuna Externa
+9207,Lumaco,,Comuna Externa
+9208,Purén,,Comuna Externa
+9209,Renaico,,Comuna Externa
+9210,Traiguén,,Comuna Externa
+9211,Victoria,,Comuna Externa
+14101,Valdivia,,Comuna Externa
+14102,Corral,,Comuna Externa
+14103,Lanco,,Comuna Externa
+14104,Los Lagos,,Comuna Externa
+14105,Máfil,,Comuna Externa
+14106,Mariquina,,Comuna Externa
+14107,Paillaco,,Comuna Externa
+14108,Panguipulli,,Comuna Externa
+14201,La Unión,,Comuna Externa
+14202,Futrono,,Comuna Externa
+14203,Lago Ranco,,Comuna Externa
+14204,Río Bueno,,Comuna Externa
+10101,Puerto Montt,,Comuna Externa
+10102,Calbuco,,Comuna Externa
+10103,Cochamó,,Comuna Externa
+10104,Fresia,,Comuna Externa
+10105,Frutillar,,Comuna Externa
+10106,Los Muermos,,Comuna Externa
+10107,Llanquihue,,Comuna Externa
+10108,Maullín,,Comuna Externa
+10109,Puerto Varas,,Comuna Externa
+10201,Castro,,Comuna Externa
+10202,Ancud,,Comuna Externa
+10203,Chonchi,,Comuna Externa
+10204,Curaco de Vélez,,Comuna Externa
+10205,Dalcahue,,Comuna Externa
+10206,Puqueldón,,Comuna Externa
+10207,Queilén,,Comuna Externa
+10208,Quellón,,Comuna Externa
+10209,Quemchi,,Comuna Externa
+10210,Quinchao,,Comuna Externa
+10301,Osorno,,Comuna Externa
+10302,Puerto Octay,,Comuna Externa
+10303,Purranque,,Comuna Externa
+10304,Puyehue,,Comuna Externa
+10305,Río Negro,,Comuna Externa
+10306,San Juan de la Costa,,Comuna Externa
+10307,San Pablo,,Comuna Externa
+10401,Chaitén,,Comuna Externa
+10402,Futaleufú,,Comuna Externa
+10403,Hualaihué,,Comuna Externa
+10404,Palena,,Comuna Externa
+11101,Coihaique,,Comuna Externa
+11102,Lago Verde,,Comuna Externa
+11201,Aisén,,Comuna Externa
+11202,Cisnes,,Comuna Externa
+11203,Guaitecas,,Comuna Externa
+11301,Cochrane,,Comuna Externa
+11302,O'Higgins,,Comuna Externa
+11303,Tortel,,Comuna Externa
+11401,Chile Chico,,Comuna Externa
+11402,Río Ibáñez,,Comuna Externa
+12101,Punta Arenas,,Comuna Externa
+12102,Laguna Blanca,,Comuna Externa
+12103,Río Verde,,Comuna Externa
+12104,San Gregorio,,Comuna Externa
+12201,Cabo de Hornos,,Comuna Externa
+12202,Antártica,,Comuna Externa
+12301,Porvenir,,Comuna Externa
+12302,Primavera,,Comuna Externa
+12303,Timaukel,,Comuna Externa
+12401,Natales,,Comuna Externa
+12402,Torres del Paine,,Comuna Externa
+13101,Santiago,,Comuna Externa
+13102,Cerrillos,,Comuna Externa
+13103,Cerro Navia,,Comuna Externa
+13104,Conchalí,,Comuna Externa
+13105,El Bosque,,Comuna Externa
+13106,Estación Central,,Comuna Externa
+13107,Huechuraba,,Comuna Externa
+13108,Independencia,,Comuna Externa
+13109,La Cisterna,,Comuna Externa
+13110,La Florida,,Comuna Externa
+13111,La Granja,,Comuna Externa
+13112,La Pintana,,Comuna Externa
+13113,La Reina,,Comuna Externa
+13114,Las Condes,,Comuna Externa
+13115,Lo Barnechea,,Comuna Externa
+13116,Lo Espejo,,Comuna Externa
+13117,Lo Prado,,Comuna Externa
+13118,Macul,,Comuna Externa
+13119,Maipú,,Comuna Externa
+13120,Ñuñoa,,Comuna Externa
+13121,Pedro Aguirre Cerda,,Comuna Externa
+13122,Peñalolén,,Comuna Externa
+13123,Providencia,,Comuna Externa
+13124,Pudahuel,,Comuna Externa
+13125,Quilicura,,Comuna Externa
+13126,Quinta Normal,,Comuna Externa
+13127,Recoleta,,Comuna Externa
+13128,Renca,,Comuna Externa
+13129,San Joaquín,,Comuna Externa
+13130,San Miguel,,Comuna Externa
+13131,San Ramón,,Comuna Externa
+13132,Vitacura,,Comuna Externa
+13201,Puente Alto,,Comuna Externa
+13202,Pirque,,Comuna Externa
+13203,San José de Maipo,,Comuna Externa
+13301,Colina,,Comuna Externa
+13302,Lampa,,Comuna Externa
+13303,Tiltil,,Comuna Externa
+13401,San Bernardo,,Comuna Externa
+13402,Buin,,Comuna Externa
+13403,Calera de Tango,,Comuna Externa
+13404,Paine,,Comuna Externa
+13501,Melipilla,,Comuna Externa
+13502,Alhué,,Comuna Externa
+13503,Curacaví,,Comuna Externa
+13504,María Pinto,,Comuna Externa
+13505,San Pedro,,Comuna Externa
+13601,Talagante,,Comuna Externa
+13602,El Monte,,Comuna Externa
+13603,Isla de Maipo,,Comuna Externa
+13604,Padre Hurtado,,Comuna Externa
+13605,Peñaflor,,Comuna Externa

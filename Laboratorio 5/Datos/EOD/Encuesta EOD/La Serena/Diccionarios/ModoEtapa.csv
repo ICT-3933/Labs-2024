@@ -1,0 +1,8 @@
+IDModoEtapa,ModoEtapa,Definicion
+-1,Sin Información,
+2,Auto,Viaje en auto
+5,Taxi,Viaje en Taxi
+6,Tren,Viaje  en  Tren
+4,Taxi Colectivo,Viaje  en Taxi colectivo
+3,Bus - Taxibus,"Viaje  en Bus, Taxibus o Minibus Urbano o Rural"
+1,A Pie,Viaje caminando

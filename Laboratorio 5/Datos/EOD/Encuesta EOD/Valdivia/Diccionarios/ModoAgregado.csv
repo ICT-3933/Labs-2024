@@ -1,0 +1,7 @@
+IDModoAgregado,ModoAgregado,Definicion
+-1,Sin Información,
+1,Transporte Privado,"Viajes en auto particular, taxi o combinación de estos y Bus Particular"
+2,Transporte Público,"Viajes en bus-taxibus, taxi colectivo o combinación de estos"
+3,Transporte Combinado,Viajes en vehiculos particulares y publicos
+4,No Motorizado,"Viajes en vehiculos no motorizados ( Bicicletas, Triciclos, carretas, etc)"
+5,Caminata,Viajes solo caminando

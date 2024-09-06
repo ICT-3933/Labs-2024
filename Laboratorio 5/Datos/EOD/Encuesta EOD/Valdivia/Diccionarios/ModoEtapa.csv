@@ -1,0 +1,8 @@
+IDModoEtapa,ModoEtapa,Definicion
+1,A Pie,Viaje caminando
+2,"Auto, Moto u Otro (Bicicleta, Camión, etc.)",Viaje en auto
+3,"Micro, Bus o Taxibus","Viaje  en Bus, Taxibus o Minibus Urbano o Rural"
+4,Taxi Colectivo,Viaje  en Taxi colectivo
+5,Taxi Básico o Radiotaxi,Viaje en Taxi
+6,Tren o Metrotren,Viaje  en  Metrotrén
+7,Barcaza,Viaje  en  Barcaza o Bote

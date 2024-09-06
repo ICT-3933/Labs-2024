@@ -1,0 +1,32 @@
+IDServicioBus,NombreServicioBus,Descripción
+0,No viaja en Bus,
+1,Otra Línea,Otra Línea
+2,1 Troncal,1 Troncal
+3,1 Variante,1 Variante
+4,1 Labranza o Letrero Azul,1 Labranza o Letrero Azul
+5,2 Letrero Rojo,2 Letrero Rojo
+6,2 Labranza o Letrero Azul,2 Labranza o Letrero Azul
+7,2 Los Poetas o Letrero Amarill,2 Los Poetas o Letrero Amarillo
+8,3 Huichahue,3 Huichahue
+9,3 Variante o Letrero Amarillo,3 Variante o Letrero Amarillo
+10,3 Chivilcan,3 Chivilcan
+11,3 Directo San Ramon,3 Directo San Ramon
+12,4 A,4 A
+13,4 B,4 B
+14,5 Directo o Letrero Verde,5 Directo o Letrero Verde
+15,5 Pob Temuco o Letrero Rojo,5 Pob Temuco o Letrero Rojo
+16,5 San Antonio o Letrero Amaril,5 San Antonio o Letrero Amarillo
+17,6 Jumbo o Letrero Azul,6 Jumbo o Letrero Azul
+18,6 Variante por Fco Poblete o V,6 Variante por Fco Poblete o Vegas de chivilcan
+19,6 Quepe,6 Quepe
+20,7 Rodoviario,7 Rodoviario
+21,7 Fundo el Carmen,7 Fundo el Carmen
+22,8 A,8 A
+23,8 B,8 B
+24,8 C o 8 Quepe,8 C o 8 Quepe
+25,8 D o 8 Niagara,8 D o 8 Niagara
+26,9 Letrero Amarillo o Barros Ar,9 Letrero Amarillo o Barros Arana
+27,9 Fundo El Carmen,9 Fundo El Carmen
+28,9 Directo El Molino,9 Directo El Molino
+29,10 Directo - Letrero azul en P,10 Directo - Letrero azul en P.L.C. camino al rodoviario
+30,Letrero Verde,Letrero Verde

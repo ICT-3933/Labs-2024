@@ -1,0 +1,13 @@
+IDModo,Modo,Definicion
+-1,Sin Información,
+1,Auto Chofer,"Viaje completo como Chofer en Auto, camioneta, furgon y camion"
+2,Auto Acompañante,"Viaje completo como Acompañante en Auto, camioneta, furgon y camion"
+3,Taxi Colectivos,Viaje completo en Taxi colectivo
+4,Buses-Taxibus,"Viaje Completo en Buses, Taxibuses o minibuses Urbano o Rural"
+5,Taxi Básico o Radiotaxi,Viaje Completo en Taxi Básico
+6,Bus(particulares),Viajes en Buses Particulares
+7,Caminata,"Viajes enteramente a Pie, Coche o embrazos"
+8,Bicicletas,Viajes enteramente en bicicletas
+9,Bus Interprovincial,Viajes Completo en Bus interurbano
+10,Otros,"Viajes combinados en cualquier Modo, Modo Taxi básico y otros"
+11,Transporte Escolar,Viajes en Transporte Escolar
