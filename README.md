@@ -14,7 +14,7 @@ Si tienes alguna duda, no dudes en contactarme a través del correo [jaleonhardt
 | Viernes 30 de agosto         | Sesión de Consulta 1              | Consultas Generales          | Presencial | -                                  |
 | Viernes 6 de septiembre      | Laboratorio 4                     | Proyecto Semestral           | YouTube    | [Link](https://youtu.be/CLkduOGjpUM)|
 | Viernes 6 de septiembre      | Laboratorio 5                     | Consolidación de Datos       | YouTube    | [Link](https://youtu.be/_Hs5kjm0FkI)|
-| Viernes 13 de septiembre     | Laboratorio 6                     | Cálculo de Accesibilidad     | YouTube    | |
+| Viernes 13 de septiembre     | Laboratorio 6                     | Cálculo de Accesibilidad     | YouTube    | [Link](https://youtu.be/VkGz2oVmQKs)|
 | Viernes 27 de septiembre     | Laboratorio 7                     | Estimación de Modelos        | YouTube    | |
 | Viernes 4 de octubre         | Sesión de Consulta 2              | Consultas Generales          | Presencial | -                                  |
 | Viernes 4 de octubre         | Laboratorio 8                     | Simulación                   | YouTube    | |
