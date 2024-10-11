@@ -19,7 +19,7 @@ Si tienes alguna duda, no dudes en contactarme a través del correo [jaleonhardt
 | Viernes 4 de octubre         | Sesión de Consulta 2              | Consultas Generales          | Presencial | -                                  |
 | Viernes 4 de octubre         | Laboratorio 8                     | Simulación                   | YouTube    | [Link](https://youtu.be/5cVgNQ06kDA)|
 | Viernes 11 de octubre        | Sesión de Consulta 3              | Consultas Generales          | Presencial | -                                  |
-| Viernes 11 de octubre        | Laboratorio 9                     | Equilibrio                   | YouTube    | |
+| Viernes 11 de octubre        | Laboratorio 9                     | Equilibrio                   | YouTube    | [Link](https://youtu.be/2hYxmDNG2Wg)|
 | Lunes 14 de octubre          | Presentación de Avance 1          | Revisión de Proyectos        | Presencial | -                                  |
 | Miércoles 16 de octubre      | Presentación de Avance 2          | Revisión de Proyectos        | Presencial | -                                  |
 
